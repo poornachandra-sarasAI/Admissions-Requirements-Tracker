@@ -1,0 +1,9 @@
+langchain-core
+langchain-openai
+tavily-python
+pandas
+pydantic
+requests
+beautifulsoup4
+openpyxl
+python-dotenv
